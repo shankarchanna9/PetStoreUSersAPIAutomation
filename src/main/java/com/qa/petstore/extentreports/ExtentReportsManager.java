@@ -21,7 +21,7 @@ public class ExtentReportsManager implements ITestListener {
 	public ExtentTest extentTest;
 	String reportName;
 	
-	@BeforeTest
+	
 	public void onStart(ITestContext contest) {
 		String simpleDateFormat = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 		reportName = "Test-Report" + simpleDateFormat + ".html";
