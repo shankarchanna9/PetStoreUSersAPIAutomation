@@ -1,0 +1,4 @@
+com\qa\petstore\excelutilities\DataProviders.class
+com\qa\petstore\extentreports\ExtentReportsManager.class
+com\qa\petstore\excelutilities\ExcelUtility.class
+com\qa\petstore\httpRequests\HTTPRequests.class

@@ -1,0 +1,4 @@
+com\qa\petstore\user\pojo\User.class
+com\qa\petstore\user\TestMethods\UserTests.class
+com\qa\petstore\endpoints\UserRoutes.class
+com\qa\petstore\user\pojo\createUser.class
